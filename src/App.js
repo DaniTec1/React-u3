@@ -1,5 +1,4 @@
 import React from "react";
-import ReactHTMLTableToExcel from "react-html-table-to-excel";
 import DataTable from "react-data-table-component";
 import DataTableExtensions from "react-data-table-component-extensions";
 import "react-data-table-component-extensions/dist/index.css";
